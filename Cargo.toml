@@ -1,0 +1,10 @@
+[package]
+name = "pim_parser"
+version = "0.1.0"
+edition = "2021"
+authors = ["Cyprien Avico avicocyprien@yahoo.com"]
+description = "A Rust library for parsing PIM (Protocol Independent Multicast) packets."
+license = "MIT"
+
+[dependencies]
+thiserror = "1.0.64"
